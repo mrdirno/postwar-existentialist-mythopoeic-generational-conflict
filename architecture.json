@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-mythopoeic-generational-conflict",
+  "title": "The Ghosts of Saint-Julien-le-Pauvre",
+  "tagline": "In the ruins of postwar France, a young thief and a broken philosopher forge a dangerous bond, haunted by the past and hunted by the living.",
+  "target_words": 69624,
+  "actual_words": 69624,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Witness",
+    "Philosophy as a Weapon",
+    "Haunting Versus Living",
+    "The Inheritance of Ruin"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Waterlogged Meditations",
+      "words": 6329
+    },
+    {
+      "ch": 2,
+      "title": "The Curriculum of Stillness",
+      "words": 6329
+    },
+    {
+      "ch": 3,
+      "title": "A Summons from the Past",
+      "words": 6329
+    },
+    {
+      "ch": 4,
+      "title": "The Gauloises on the Blotter",
+      "words": 6329
+    },
+    {
+      "ch": 5,
+      "title": "The Grey Peugeot Waits",
+      "words": 6329
+    },
+    {
+      "ch": 6,
+      "title": "The Throat of the Impasse",
+      "words": 6329
+    },
+    {
+      "ch": 7,
+      "title": "A Name from the Archives",
+      "words": 6329
+    },
+    {
+      "ch": 8,
+      "title": "The Closing of the Trap",
+      "words": 6329
+    },
+    {
+      "ch": 9,
+      "title": "The Library in the Van",
+      "words": 6329
+    },
+    {
+      "ch": 10,
+      "title": "A Footnote, Pressed and Dry",
+      "words": 6329
+    },
+    {
+      "ch": 11,
+      "title": "Ink and the Deliberate Resurrection",
+      "words": 6329
+    }
+  ]
+}
